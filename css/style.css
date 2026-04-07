@@ -340,7 +340,7 @@ footer{
 
     #banner {
         width: 100vw;
-        height: 60vh;
+        /*height: 60vh;*/
     }
 
     .grid-livros {
@@ -362,10 +362,10 @@ footer{
     p {
         font-size: 14px;
     }
-    
+
     #banner2 {
         width: 100vw;
-        height: 60vh;
+        /*height: 60vh;*/
     }
 
     .contato{
@@ -373,10 +373,10 @@ footer{
         text-align: center;
     }
 
-    .contato img {
+    /*.contato img {
         width: 300px;
         height: 100px;
         
         
-    }
+    }*/
 }
