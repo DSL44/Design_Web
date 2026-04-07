@@ -340,7 +340,7 @@ footer{
 
 
     #banner img {
-        height: 100%;
+        height: auto;
     }
 
     .grid-livros {
@@ -364,7 +364,7 @@ footer{
     }
 
     .contato img {
-        width: 100%;
-        height: auto;
+        width: 50%;
+        
     }
 }
