@@ -340,7 +340,7 @@ footer{
 
     #banner {
        width: 100vw;
-        
+       height: 60vh; 
     }
 
     .grid-livros {
@@ -364,7 +364,8 @@ footer{
     }
 
     #banner2 {
-        height: 50vh;
+        width: 100vw;
+        height: 60vh;
 
 
     }
