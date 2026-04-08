@@ -102,8 +102,9 @@ header nav ul li:hover{
 }
 
 #banner{
-    width: 100vw;
-    height: 80vh;
+    /*width: 100vw;
+    height: 80vh;*/
+    height: 450px;
     background-color: #5a85b3;
     background-image: url(../image/banner1.jpg);
     background-attachment: fixed;
@@ -306,8 +307,7 @@ footer{
 
     background-img-default{
         background-attachment: scroll;
-        background-repeat: no-repeat;
-        
+        background-repeat: no-repeat;  
     }
 
     header nav{
@@ -338,11 +338,7 @@ footer{
 
 
     #banner {
-        /*width: 100vw;
-        height: 50vh;*/ 
-        background-size: 750px 420px;
-        background-position: center;
-        background-size: contain;
+        height: 280px;
     }
 
     .grid-livros {
@@ -368,7 +364,7 @@ footer{
     #banner2 {
         width: 100vw;
         height: 50vh;
-        background-position: left;
+        background-position: center;
         background-size: cover;
     }
 
