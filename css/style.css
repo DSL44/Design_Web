@@ -369,8 +369,8 @@ footer{
 
 
     .galeria img {
-        width: 100px;
-        height: 80px;
+        width: 80px;
+        height: 50px;
         border-radius: 10px;
         display: grid;
         grid-template-columns: repeat(1fr, 1fr);
