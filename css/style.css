@@ -341,7 +341,7 @@ footer{
     #banner {
        width: 100vw;
        height: 50vh; 
-       background-position: center;
+       background-position: left;
     }
 
     .grid-livros {
@@ -357,7 +357,7 @@ footer{
     }
 
     h2 {
-        font-size: 20px;
+        font-size: 20px;l
     }
 
     p {
