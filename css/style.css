@@ -342,6 +342,7 @@ footer{
         background-size: 750px 450px;
         background-position: center;
         background-attachment: scroll;
+        background-size: cover;
     }
 
     .grid-livros {
