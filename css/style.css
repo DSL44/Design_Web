@@ -361,20 +361,20 @@ footer{
         text-align: center;
     }
 
-
+    .galeria {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+    }
+    
     .imagem_central img {
         display: none;
     }
 
-
     .galeria img {
-        width: 120px;
-        height: 80px;
+        width: 180px;
+        height: 100px;
         border-radius: 10px;
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        gap: 10px;
-        
     }
 
     #banner2 {
