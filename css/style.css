@@ -307,7 +307,7 @@ footer{
     background-img-default{
         background-attachment: scroll;
         background-repeat: no-repeat;
-        background-size: cover;
+        
     }
 
     header nav{
@@ -340,9 +340,9 @@ footer{
     #banner {
         /*width: 100vw;
         height: 50vh;*/ 
-        background-size: 400px 200px;
+        background-size: 750px 420px;
         background-position: center;
-        
+        background-size:auto;
     }
 
     .grid-livros {
@@ -369,6 +369,7 @@ footer{
         width: 100vw;
         height: 50vh;
         background-position: left;
+        background-size: cover;
     }
 
     .contato{
