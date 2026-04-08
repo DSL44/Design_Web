@@ -311,7 +311,7 @@ footer{
         height: 70px;
         background-color: rgb(0, 74, 121); 
         background-image: url(../image/menu.png);
-        background-size: 50px 40px;
+        background-size: 50px 50px;
         background-repeat: no-repeat;
         background-position: 20px 10px;
     }
@@ -351,12 +351,15 @@ footer{
     }
 
     .galeria {
-        flex-wrap: wrap;
+        display: grid;
+        grid-template-columns: repeat(1fr, 1fr);
+        gap: 10px;
     }
 
     .galeria img {
         width: 180px;
         height: 100px;
+        border-radius: 10px;
         object-fit: cover;
     }
 
