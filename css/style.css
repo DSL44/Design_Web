@@ -342,7 +342,7 @@ footer{
         height: 50vh;*/ 
         background-size: 750px 420px;
         background-position: center;
-        background-size:auto;
+        background-size: 100%;
     }
 
     .grid-livros {
