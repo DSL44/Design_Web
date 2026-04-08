@@ -339,10 +339,10 @@ footer{
 
 
     #banner {
-       background-image: url(../image/banner1.jpeg); 
+       
        width: 100vw;
        height: 50vh; 
-       background-position: right;
+    
     }
 
     .grid-livros {
@@ -368,8 +368,8 @@ footer{
 
     #banner2 {
         width: 100vw;
-        height: 40vh;
-        background-position: center;
+        height: 50vh;
+        
 
 
     }
