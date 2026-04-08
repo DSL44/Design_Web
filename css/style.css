@@ -357,12 +357,13 @@ footer{
     .galeria img {
         width: 180px;
         height: 100px;
+        object-fit: cover;
     }
 
     #banner2 {
         width: 100vw;
         height: 50vh;
-        background-position: left;
+        background-position: left top;
     }
 
     .grid-livros {
