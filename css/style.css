@@ -28,7 +28,7 @@ h3{
     font-weight: bold;
     margin-bottom: 50px;
     margin-top: 20px;
-    color: #000;
+    color: #ffffff;
 }
 
 p{
@@ -38,6 +38,7 @@ p{
     font-size: 1rem;
     line-height: 1.5;
     margin-bottom: 50px;
+    
 }
 
 .background-img-default{
@@ -101,7 +102,7 @@ header nav ul li:hover{
 }
 
 #banner{
-    width: 1280px;
+    width: 100%;
     height: 500px;
     background-color: #5a85b3;
     background-image: url(../image/banner1.jpg);
@@ -135,6 +136,7 @@ section {
 
 .texto {
     text-align: justify;
+    color: #ffffff;
 }
 
 .container1 img {
@@ -156,7 +158,7 @@ section {
 }
 
 #banner2 {
-    width: 1280px;
+    width: 100%;
     height: 590px;
     background-color: #5a85b3;
     background-image: url(../image/banner2.png);
@@ -219,6 +221,8 @@ section {
     margin-bottom: 40px;
     align-items: center;
     text-align: justify;
+    color: #ffffff;
+    
 }
 
 .unidade img {
@@ -230,7 +234,6 @@ section {
 
 #contato {
     background-color: #ccc;
-    color: #000;
 }
 
 .contato {
@@ -349,10 +352,10 @@ footer{
     }
 
     #banner {
-        width: 100vw;
+        width: 100%;
         height: 400px;
         background-position: right center;
-        /*background-attachment: scroll;*/
+        background-attachment: scroll;
     }
 
     #sobre {
@@ -376,7 +379,7 @@ footer{
     }
 
     #banner2 {
-        width: 100vw;
+        width: 100%;
         height: 60vh;
         background-position: left top;
         background-attachment: scroll;
