@@ -311,7 +311,7 @@ footer{
         height: 70px;
         background-color: rgb(0, 74, 121); 
         background-image: url(../image/menu.png);
-        background-size: 50px 50px;
+        background-size: 50px 40px;
         background-repeat: no-repeat;
         background-position: 20px 10px;
     }
@@ -355,14 +355,14 @@ footer{
     }
 
     .galeria img {
-        width: 200px;
-        height: 120px;
+        width: 180px;
+        height: 100px;
     }
 
     #banner2 {
         width: 100vw;
         height: 50vh;
-        background-position: center;
+        background-position: left;
     }
 
     .grid-livros {
