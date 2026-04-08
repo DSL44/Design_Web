@@ -307,7 +307,8 @@ footer{
 
     background-img-default{
         background-attachment: scroll;
-        background-repeat: no-repeat;  
+        background-repeat: no-repeat; 
+        background-size: cover; 
     }
 
     header nav{
@@ -365,7 +366,6 @@ footer{
         width: 100vw;
         height: 50vh;
         background-position: center;
-        background-size: cover;
     }
 
     .contato{
