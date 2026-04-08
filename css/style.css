@@ -337,10 +337,11 @@ footer{
 
 
     #banner {
-        width: 100vw;
-        height: 50vh; 
-        background-size: 200px 100px;
+        /*width: 100vw;
+        height: 50vh;*/ 
+        background-size: 750px 450px;
         background-position: center;
+        background-attachment: scroll;
     }
 
     .grid-livros {
